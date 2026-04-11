@@ -2,7 +2,6 @@
 In a world where technology is transforming everyday life, enhancing road safety especially for motorcyclists has become more important than ever. 𝐓𝐡𝐞 𝐑𝐢𝐝𝐞𝐫’𝐬 𝐂𝐨-𝐏𝐢𝐥𝐨𝐭 𝐢𝐬 𝐚𝐧 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐬𝐲𝐬𝐭𝐞𝐦 designed to proactively enforce rider safety and minimize risks caused by human error.
 
 Built on a combination of Arduino and Raspberry Pi architecture, the system integrates hardware, sensors, and LoRa-based wireless communication to create a smart helmet vehicle ecosystem. Its core objective is simple yet powerful: ensure that a motorcycle operates only when essential safety conditions are met.
-
 𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 & 𝐖𝐨𝐫𝐤𝐢𝐧𝐠:
 The system follows a dual-unit design:
 • Helmet Unit (Transmitter): Monitors rider status
